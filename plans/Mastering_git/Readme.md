@@ -1,1 +1,1 @@
-Hello git ! cahnged reaadme file
+Welcome git .dev-jsm changed the read me file aand pushed the code in repo
