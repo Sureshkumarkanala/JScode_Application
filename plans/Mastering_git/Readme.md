@@ -1,2 +1,3 @@
-
- i am adding from feature-branch
+Hello git ! this is dev-jsm 
+readme file 
+new text added in to the file
