@@ -9,5 +9,8 @@ JavaScript offers numerous advantages, including its versatility for both client
 7.Asynchronous Programming
 8.Regular Updates and Standardization
 
-this is base-branch new text is added in to the read me file
+readme file 
 
+this is base-branch new text is added in to the read me file(base data)
+
+Merge conflict resolved  from base--> master
