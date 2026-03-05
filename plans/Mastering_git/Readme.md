@@ -1,17 +1,8 @@
-This is base-branch
-JavaScript offers numerous advantages.
+this is Base-branch
+JavaScript offers numerous advantages
 
-1.Speed and Performance
-2.Full-Stack Capability
-3.Rich User Interfaces
-4.Ease of Learning
-5.Large Community and Ecosystem
-6.Interoperability
-7.Asynchronous Programming
+readme file 
 
+this is base-branch new text is added in to the read me file(base data)
 
 Merge conflict resolved  from base--> master
-
-Merge conflict resolved  from master to base
-
-
