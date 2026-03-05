@@ -1,5 +1,7 @@
-this is base-branch
-JavaScript offers numerous advantages, including its versatility for both client-side and server-side development, universal browser support, and a vast ecosystem of frameworks and libraries. 
+this is Master
+
+JavaScript offers numerous advantages.
+
 1.Speed and Performance
 2.Full-Stack Capability
 3.Rich User Interfaces
@@ -9,9 +11,10 @@ JavaScript offers numerous advantages, including its versatility for both client
 7.Asynchronous Programming
 8.Regular Updates and Standardization
 Hello git ! this is dev-jsm 
-readme file 
-new text added in to the file
-Merge conflict resolved and data received from base branch and saved in master
 
- this is readme file and text chnaged from dev-adrian branch.
- Merge conflict resolved
+Up to this is Master
+
+
+this is read me file 
+in the advance branch
+
