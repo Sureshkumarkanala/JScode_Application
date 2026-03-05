@@ -8,7 +8,6 @@ JavaScript offers numerous advantages, including its versatility for both client
 6.Interoperability
 7.Asynchronous Programming
 8.Regular Updates and Standardization
-Hello git ! this is dev-jsm 
-readme file 
-new text added in to the file
-Merge conflict resolved and data received from base branch and saved in master
+
+this is base-branch new text is added in to the read me file
+
